@@ -1,0 +1,1 @@
+{"restricted_protocols": ["IPV4", "TCP"], "restricted_src_ipv4": ["192.168.1.12"], "restricted_src_ipv6": [], "restricted_dest_ipv4": [], "restricted_dest_ipv6": [], "restricted_src_mac": [], "restricted_dest_mac": [], "restricted_src_port": [], "restricted_dest_port": []}
